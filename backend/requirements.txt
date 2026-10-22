@@ -1,0 +1,7 @@
+fastapi>=0.110,<1
+uvicorn[standard]>=0.29,<1
+python-multipart>=0.0.9
+pillow>=10,<13
+# Install compatible torch and torchvision versions for your Python/platform.
+torch>=2.3
+torchvision>=0.18
